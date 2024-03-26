@@ -1,6 +1,6 @@
 # Memory-Game
 
-A little memory game in Javascript !
+A memory game in Javascript !
 
 You can have a look here : https://ulysse28.github.io/Memory-Game/
 
